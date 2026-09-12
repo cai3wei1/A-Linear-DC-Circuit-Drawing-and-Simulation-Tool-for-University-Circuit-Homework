@@ -165,12 +165,12 @@ linear-circuit-editor/
 ## 🙏 致谢
 
 感谢杭州深度求索人工智能基础技术研究有限公司（DeepSeek）及其 DeepSeek-V4.1-Flash 模型，在代码编写、调试和文档整理过程中提供了帮助。(本项目多数为DeepSeek编写，甚至这个.md文档。鄙人只负责撰写提示词与微调代码。)
-感谢舍友Mr.Lin的首肯和支持。
+感谢舍友**Mr.Lin**的首肯和支持。
 感谢电路与电子课程对我能力的锻炼。
 感谢所有为线性电路仿真和 MNA 方法做出贡献的开源项目与文献。  
 特别感谢 Python 社区提供的 `numpy`、`scipy` 和 `tkinter`。
 
-Long Life CPC!
+Long Live CPC!
 
 ---
 
